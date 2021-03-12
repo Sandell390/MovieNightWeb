@@ -1,0 +1,8 @@
+﻿.background-pic {
+    background-repeat: repeat;
+    background: url(../images/background.png);
+    
+}
+.searchDropdown {
+    width: 50%;
+}
